@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Mostafa Mahmoud<br><br>Cybersecurity fresh graduate from Cairo University (Faculty of Computer and Artificial Intelligence), focused on **malware analysis**, **machine-learning-based detection**, and **web / Linux penetration testing**.<br><br>I'm looking for my first cybersecurity internship or junior role, where I can keep learning while contributing to real detection and defense work.<br><br>## What I work on<br><br>- **Malware detection with ML:** static PE analysis and memory forensics classifiers, evaluated with realistic metrics (FPR-calibrated thresholds, temporal splits, macro-F1) rather than just accuracy.<br>- **Offensive security:** OWASP Top 10 web exploitation, Metasploit, and Linux-based penetration testing, practiced through CTFs and labs.<br>- **Applied cryptography:** DSA, SHA-1, and ElGamal implemented from scratch in Java.<br><br>## Featured project: Malware Detection & Analysis<br><br>My graduation project, built as a 5-person team and supervised by Dr. Dina Tarek. I built the static and memory-forensics models.<br><br>| Model | Dataset | Highlights |<br>|---|---|---|<br>| Static PE classifier (LightGBM) | EMBER2024 (Win64) | 2,568 → 384 features via importance selection; decision threshold tuned to hit ≤1% false-positive rate |<br>| Memory forensics classifier (stacking ensemble: XGBoost, LightGBM, ExtraTrees, RandomForest) | CIC-MalMem-2022 | 88.4% four-class accuracy, macro-F1 0.824, ROC-AUC 0.975 across Benign / Spyware / Trojan / Ransomware |<br><br>I also built end-to-end inference pipelines for both models and deployed the static model from a Linux dev environment to a Windows target.<br><br>**An honest note on limits:** recall on evasive, string-rich malware is weak (about 29% on the EMBER2024 challenge set). I studied why through a targeted feature-engineering experiment and documented it alongside the main results, because a detector's failure modes matter as much as its headline numbers.<br><br>> Repo: [Malware Detection & Analysis](https://github.com/YOUR_USERNAME/REPO_NAME)<br><br>## Skills<br><br>| Area | Tools & topics |<br>|---|---|<br>| Security | Penetration testing (Metasploit), OWASP Top 10, malware analysis, MITRE ATT&CK, cryptography |<br>| Networking | ACLs, subnetting, NAT/PAT, VPNs, Kerberos fundamentals |<br>| ML / Data | LightGBM, XGBoost, scikit-learn, feature engineering, ROC-AUC, macro-F1, FPR calibration |<br>| Languages | Python, Java, C++ |<br>| Systems | Linux, Windows, Git / GitHub |<br><br>## Certifications & training<br><br>- Huawei Certified ICT Associate (HCIA), Cybersecurity, 2024<br>- Security Fundamentals Training, Alkane CIT (CIA triad, cryptography, Kerberos, VPNs, MITRE ATT&CK)<br>- OWASP Top 10 CTF, Cairo University<br><br>## Currently<br><br>- Sharpening hands-on skills on Hack The Box and CTFs, and publishing writeups<br>- Working toward a hands-on security certification<br>- Making my first open-source contributions to detection and security tooling<br>
 
-<!--
-**she3bos/she3bos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostafamahmoud_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mostafa Mahmoud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mostafa.emarahy@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=she3bos&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=she3bos&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=she3bos&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=she3bos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=she3bos&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
